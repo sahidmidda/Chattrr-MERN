@@ -176,8 +176,8 @@ Include screenshots of the application here to give users a visual overview.
 ![Profile Setup](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20141532.png)
 ![Register_Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20130818.png)
 ![Home_Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20130939.png)
-![Chat Page]([link_to_chat_screenshot](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20131340.png))
-![Channel Page]([link_to_channel_screenshot](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20141747.png))
+![Chat Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20131340.png))
+![Channel Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20141747.png))
 
 ## Contributing
 
