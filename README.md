@@ -172,10 +172,12 @@ Welcome to **Chattrr**, a full-stack chat application built using the MERN stack
 
 Include screenshots of the application here to give users a visual overview.
 
-![Login Page](link_to_login_screenshot)
-![Profile Setup](link_to_profile_screenshot)
-![Chat Page](link_to_chat_screenshot)
-![Channel Page](link_to_channel_screenshot)
+![Login Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20130757.png)
+![Profile Setup](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20141532.png)
+![Register_Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20130818.png)
+![Home_Page](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20130939.png)
+![Chat Page]([link_to_chat_screenshot](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20131340.png))
+![Channel Page]([link_to_channel_screenshot](https://github.com/sahidmidda/Chattrr-MERN/blob/main/Screenshot%202024-07-21%20141747.png))
 
 ## Contributing
 
